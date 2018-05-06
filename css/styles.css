@@ -12,6 +12,10 @@ h3 {
   color: green;
 }
 
+img {
+float: left;
+}
+
 .important {
   color: blue;
 }
@@ -27,4 +31,10 @@ p.intro {
   font-family: verdana;
   font-weight: bold;
   text-align: center;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: green;
 }
