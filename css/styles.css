@@ -8,6 +8,14 @@ h3 {
   text-align: left;
 }
 
+.highlight {
+  color: green;
+}
+
+.important {
+  color: blue;
+}
+
 li {
   font-size: 12px;
   line-height: 20px;
@@ -19,8 +27,4 @@ p.intro {
   font-family: verdana;
   font-weight: bold;
   text-align: center;
-
-}
-.important {
-  color: red;
 }
