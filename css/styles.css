@@ -12,12 +12,10 @@ h3 {
   color: green;
 }
 
-img {
-float: left;
-}
-
 .important {
   color: blue;
+  border: 2px solid green;
+  padding: 6px;
 }
 
 li {
